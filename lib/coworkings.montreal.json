@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Le Plateau Coworking",
+    "address": "4185 Boulevard Saint-Laurent, Montreal, QC",
+    "district": "Plateau Mont-Royal",
+    "wifi": "100 Mbps",
+    "price": "25 CAD/day",
+    "dayPass": 25,
+    "monthly": 250,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Meeting Rooms"
+    ],
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&fit=crop",
+    "lat": 45.5215,
+    "lng": -73.5817
+  },
+  {
+    "name": "La Gare Coworking",
+    "address": "1001 Rue Sherbrooke E, Montreal, QC",
+    "district": "Plateau Mont-Royal",
+    "wifi": "80 Mbps",
+    "price": "20 CAD/day",
+    "dayPass": 20,
+    "monthly": 200,
+    "amenities": [
+      "WiFi",
+      "Tea",
+      "Phone Booths"
+    ],
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&fit=crop",
+    "lat": 45.5172,
+    "lng": -73.5671
+  },
+  {
+    "name": "WeWork Mile End",
+    "address": "5333 Avenue Casgrain, Montreal, QC",
+    "district": "Mile End",
+    "wifi": "150 Mbps",
+    "price": "35 CAD/day",
+    "dayPass": 35,
+    "monthly": 350,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Printer"
+    ],
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1529335764857-3f1164d1cb24?w=1200&fit=crop",
+    "lat": 45.5288,
+    "lng": -73.595
+  },
+  {
+    "name": "Spaces Old Montreal",
+    "address": "360 Rue Saint-Jacques, Montreal, QC",
+    "district": "Old Montreal",
+    "wifi": "120 Mbps",
+    "price": "30 CAD/day",
+    "dayPass": 30,
+    "monthly": 300,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Printer",
+      "Events"
+    ],
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&fit=crop",
+    "lat": 45.5027,
+    "lng": -73.558
+  },
+  {
+    "name": "Station C Downtown",
+    "address": "1010 Rue Sainte-Catherine O, Montreal, QC",
+    "district": "Downtown",
+    "wifi": "200 Mbps",
+    "price": "40 CAD/day",
+    "dayPass": 40,
+    "monthly": 400,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Printer",
+      "Meeting Rooms",
+      "Lounge"
+    ],
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200&fit=crop",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Crew Collective & Cafe",
+    "address": "360 Rue Saint-Jacques, Montreal, QC",
+    "district": "Old Montreal",
+    "wifi": "100 Mbps",
+    "price": "28 CAD/day",
+    "dayPass": 28,
+    "monthly": 280,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Cafe",
+      "Historic Building"
+    ],
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&fit=crop",
+    "lat": 45.5025,
+    "lng": -73.5579
+  },
+  {
+    "name": "Notman House",
+    "address": "51 Rue Sherbrooke O, Montreal, QC",
+    "district": "Downtown",
+    "wifi": "150 Mbps",
+    "price": "32 CAD/day",
+    "dayPass": 32,
+    "monthly": 320,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Events",
+      "Community"
+    ],
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&fit=crop",
+    "lat": 45.5048,
+    "lng": -73.5698
+  },
+  {
+    "name": "ECTO Coworking Griffintown",
+    "address": "75 Rue Queen, Montreal, QC",
+    "district": "Griffintown",
+    "wifi": "180 Mbps",
+    "price": "38 CAD/day",
+    "dayPass": 38,
+    "monthly": 380,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Printer",
+      "Bike Storage"
+    ],
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&fit=crop",
+    "lat": 45.4922,
+    "lng": -73.5584
+  },
+  {
+    "name": "Regus McGill College",
+    "address": "2001 McGill College Avenue, Montreal, QC",
+    "district": "Downtown",
+    "wifi": "200 Mbps",
+    "price": "45 CAD/day",
+    "dayPass": 45,
+    "monthly": 450,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Meeting Rooms",
+      "Reception",
+      "Parking"
+    ],
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&fit=crop",
+    "lat": 45.5032,
+    "lng": -73.5742
+  },
+  {
+    "name": "Anticafe Montreal",
+    "address": "1313 Boulevard Saint-Laurent, Montreal, QC",
+    "district": "Quartier des Spectacles",
+    "wifi": "120 Mbps",
+    "price": "22 CAD/day",
+    "dayPass": 22,
+    "monthly": 220,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Snacks",
+      "Games"
+    ],
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&fit=crop",
+    "lat": 45.5088,
+    "lng": -73.5658
+  },
+  {
+    "name": "Le 370 Coworking",
+    "address": "370 Rue Saint-Paul O, Montreal, QC",
+    "district": "Old Montreal",
+    "wifi": "100 Mbps",
+    "price": "27 CAD/day",
+    "dayPass": 27,
+    "monthly": 270,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Terrace",
+      "Meeting Rooms"
+    ],
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&fit=crop",
+    "lat": 45.5013,
+    "lng": -73.5562
+  },
+  {
+    "name": "WorkLab Rosemont",
+    "address": "5333 Avenue Casgrain, Montreal, QC",
+    "district": "Rosemont",
+    "wifi": "140 Mbps",
+    "price": "26 CAD/day",
+    "dayPass": 26,
+    "monthly": 260,
+    "amenities": [
+      "WiFi",
+      "Coffee",
+      "Printer",
+      "Quiet Zones"
+    ],
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=1200&fit=crop",
+    "lat": 45.5431,
+    "lng": -73.5989
+  }
+]
